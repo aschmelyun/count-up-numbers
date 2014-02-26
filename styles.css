@@ -1,0 +1,14 @@
+#countup-wrapper {
+	width: 100%;
+	display: block;
+	overflow: auto;
+	text-align: center;
+	margin: 24px 0;
+}
+.countup-block {
+	display: inline-block;
+	text-align: center;
+	width: 15%;
+	margin: 0 2.5%;
+	vertical-align: top;
+}
