@@ -1,10 +1,11 @@
 <?php
 /**
  * Plugin Name: Count Up Numbers
+ * Plugin URI: http://andrewschmelyun.com/count-up-numbers
  * Description: Uses CountUp.js and JQuery Waypoints to allow certain numbers to count-up after a div has come into the users' sight.
  * Version: 1.0
- * Author: Armos Media
- * Author URI: http://armosmedia.com
+ * Author: Andrew Schmelyun
+ * Author URI: http://andrewschmelyun.com
  */
 
 //Load and enqueue custom css and jquery files for the plugin
