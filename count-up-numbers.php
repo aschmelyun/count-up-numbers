@@ -65,7 +65,7 @@ function countup_numbers_footer() {
 	?>
 
 	<script>
-		jQuery('#countup-wrapper').waypoint(function() {
+		$('#countup-wrapper').waypoint(function() {
 			<?php 
 			for ($i=0; $i <= count($boxArray)-1; $i++) {
 				$textAndTitle = explode(";", $boxArray[$i]);
